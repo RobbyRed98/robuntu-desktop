@@ -1,0 +1,5 @@
+robuntu-desktop (0.0.1-1) stable; urgency=medium
+
+  * Initial release of the robuntu-desktop meta-package.
+
+ -- Robin Roth <roth-robin@web.de>  Sat, 28 Mar 2020 19:46:14 +0100

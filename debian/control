@@ -1,0 +1,13 @@
+Source: robuntu-desktop
+Section: meta-package
+Priority: optional
+Maintainer: Robin Roth <roth-robin@web.de>
+Build-Depends: debhelper-compat (= 12)
+Standards-Version: 4.4.0
+Vcs-Git: https://github.com/RobbyRed98/robuntu-desktop.git
+
+Package: robuntu-desktop
+Architecture: all
+Depends: robuntu-baseapps, plasma-desktop (>= 4:5.10), plasma-workspace (>= 4:5.10), udisks2, upower
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
